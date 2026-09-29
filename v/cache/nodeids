@@ -1,0 +1,9 @@
+[
+  "tests/test_api.py::test_all_planners_save_budget_limited_history",
+  "tests/test_api.py::test_gemini_structured_response_and_image_are_supported",
+  "tests/test_api.py::test_planners_require_authentication_and_csrf",
+  "tests/test_api.py::test_registration_authentication_and_session_endpoints",
+  "tests/test_recommendations.py::FallbackRecommendationTests::test_each_planner_returns_recommendations_within_budget",
+  "tests/test_recommendations.py::FallbackRecommendationTests::test_home_quantity_is_included_in_budgeted_total",
+  "tests/test_recommendations.py::FallbackRecommendationTests::test_unknown_planner_and_invalid_budget_are_rejected"
+]
